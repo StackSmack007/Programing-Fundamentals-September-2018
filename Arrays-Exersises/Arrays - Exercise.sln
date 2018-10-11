@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Max Sequence of Equal E
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08. Magic Sum", "08. Magic Sum\08. Magic Sum.csproj", "{6EB6B208-3072-49AB-8CAE-784D5A716341}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Kamino Factory", "09. Kamino Factory\09. Kamino Factory.csproj", "{20F7B9BD-2612-4B83-84CF-985C27558B89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09. Kamino Factory", "09. Kamino Factory\09. Kamino Factory.csproj", "{20F7B9BD-2612-4B83-84CF-985C27558B89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. LadyBugs", "10. LadyBugs\10. LadyBugs.csproj", "{70C73B35-F8A8-467B-AF43-BAA1F59C9C57}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{20F7B9BD-2612-4B83-84CF-985C27558B89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20F7B9BD-2612-4B83-84CF-985C27558B89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20F7B9BD-2612-4B83-84CF-985C27558B89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70C73B35-F8A8-467B-AF43-BAA1F59C9C57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70C73B35-F8A8-467B-AF43-BAA1F59C9C57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70C73B35-F8A8-467B-AF43-BAA1F59C9C57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70C73B35-F8A8-467B-AF43-BAA1F59C9C57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
